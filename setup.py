@@ -5,7 +5,7 @@ setup(
     version='0.01',
     packages=['ratesreader'],
     url='',
-    license='VIT',
+    license='MIT',
     author='Aleksey Kotryakhov',
     author_email='aleksey.kotryakhov@gmail.com',
     description='Read currencies rate from various sources'
