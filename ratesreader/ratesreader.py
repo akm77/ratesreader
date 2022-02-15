@@ -47,11 +47,11 @@ class DEFAULTS:
     GARANTEX_API_URL = 'https://garantex.io/api/v2/depth'
 
     TRON_API_URL: str = 'https://api.trongrid.io/v1/accounts/'
-    TRON_API_KEY: str = '6531dea6-b4e9-4596-8dc7-fb574c3b9d64'
+    TRON_API_KEY: str = 'YOUR TRON API KEY HERE'
     TRON_USDT_CONTRACT: str = 'TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t'
 
     BSCSCAN_API_URL: str = 'https://api.bscscan.com/api/'
-    BSCSCAN_API_KEY: str = 'CZQE9HM9A3ENDY4JTINKB3IXCVDQQ9C7EZ'
+    BSCSCAN_API_KEY: str = 'YOUR BSCSCAN API KEY HERE'
     BSCSCAN_USDT_CONTRACT: str = '0x55d398326f99059ff775485246999027b3197955'
 
     XE_URL: str = 'https://www.xe.com/currencyconverter/convert/'
